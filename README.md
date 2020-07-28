@@ -5,3 +5,5 @@ Includes also the GNOME .desktop file to enable use at startup (each time you lo
 dependencies are: pyWal https://github.com/dylanaraps/pywal
 
 The path for the collection of wallpapers is on my own desktop, you should change this to where you keep your wallpapers in the .sh file.
+
+You also need to edit the .desktop file so that the possible Icon and execution point to wherever your files are located on your own machine.
