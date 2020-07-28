@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=randomWallPaperAndThemes
+Comment=A bash script to randomly pick a wallpaper and call pyWal for colors
+Exec=bash /home/jermu/bashes/randomWallpaper/randomWall.sh
+Icon=/home/jermu/Downloads/wallpapers/virtual_reality.jpg
+Terminal=false
