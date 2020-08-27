@@ -1,6 +1,9 @@
 # randomWallpaper
 Bash script to select random wallpaper and pywal colors.
 
+You can change the pywal -i line to e.g. feh --bg-scale myArray or whatever your wallpaper setter is. 
+pywal does not work with e.g. st, but I can still randomize the wallpaper when I invoke startx on dwm.
+
 Includes also the GNOME .desktop file to enable use at startup (each time you login to GNOME, you get a new wallpaper and pywal colors)
 dependencies are: pyWal https://github.com/dylanaraps/pywal
 
